@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,5 +88,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PlanitMaster/PlanitMaster/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2021
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
