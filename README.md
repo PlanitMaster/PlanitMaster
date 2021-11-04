@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 805 Contributions in the Year 2021
+> 🏆 806 Contributions in the Year 2021
  > 
 > 📦 374.8 kB Used in GitHub's Storage 
  > 
@@ -88,5 +88,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PlanitMaster/PlanitMaster/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2021
+ Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
